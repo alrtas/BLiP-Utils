@@ -1,4 +1,5 @@
 # BLiP Utils
+* [Modulo 0 - Começo]()
 * [Modulo 1 - Porque](#modulo-1---porque)
 * [Modulo 2 - Experiencia](#modulo-2---experiencia)
 * [Modulo 3 - Arquitetura](#modulo-3---arquitetura)
