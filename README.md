@@ -7,6 +7,7 @@
 * [Modulo 5 - Boas práticas](#modulo-5---boas-práticas)
 * [Modulo 6 - Mão na massa](#modulo-6---mão-na-massa)
 
+# Modulo 0 - Começo
 
 # Modulo 1 - Porque
 
