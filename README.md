@@ -7,9 +7,9 @@
 * [Modulo 5 - Boas práticas](#modulo-5---boas-práticas)
 * [Modulo 6 - Mão na massa](#modulo-6---mão-na-massa)
 
+     
 
-
-# Modulo 0 - Começo
+# Modulo 0 - Começo  
 
 Olá, seja bem vindo, este é meu primeiro artigo, meu nome é Thiago, tenho 23 anos e tenho experiencia na area de "desenvolvimento" de chatbots usando a plataforma BLiP (voltaremos nela mais a frente). Sim o desenvolvimento está entre aspas, porque ajudará muito na sua carrera na area de chatbots se você souber mais do que somente o desenvolvimento deste tipo de aplicação, inclusive, digo ser crucial ter outras skills para conseguir ******************* como escrita UX, analise de dados, desenvolvimento de APIs *******
 
